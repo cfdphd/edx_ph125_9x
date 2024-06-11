@@ -5,4 +5,4 @@ reality TV show The Bachelor from seasons 1 to 20.
 There are 2 excel files to read
 Bachelordataclean.xlsx
 Elimdistance.xlsx
-Place these files in /data subdirectory in order for the code to run correctly
+
